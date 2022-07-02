@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=hamzaumer2)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/hamzaumer2.svg?style=social&label=Follow%20%40hamzaumer2)](https://twitter.com/hamzaumer2)

@@ -18,6 +18,9 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+### Hello there stranger!  <img width="25" src="https://raw.githubusercontent.com/hamzaumer2/hamzaumer2/main/wave.gif" >
+
+
 ## My Expertise:
 
 <div>

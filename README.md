@@ -65,4 +65,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## My Trophies
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=hamzaumer2)](https://github.com/ryo-ma/github-profile-trophy)

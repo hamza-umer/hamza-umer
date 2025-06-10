@@ -15,7 +15,7 @@
 
 <!-- Introduction -->
 <div align="center">
-  <h1>Hello there, stranger! <img width="25" src="https://raw.githubusercontent.com/hamzaumer2/hamzaumer2/main/wave.gif"></h1>
+  <h1>Hello there, stranger! <img width="25" src="https://raw.githubusercontent.com/hamza-umer/hamza-umer/main/wave.gif"></h1>
 </div>
 
 <!-- Expertise -->
@@ -49,11 +49,11 @@
 <!-- Languages -->
 <div align="center">
   <h2>My Languages:</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaumer2&layout=compact&theme=vision-friendly-dark" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-umer&layout=compact&theme=vision-friendly-dark" alt="Top Languages">
 </div>
 
 <!-- Trophies -->
 <div align="center">
   <h2>My Trophies:</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=hamzaumer2" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=hamza-umer" alt="GitHub Trophies">
 </div>

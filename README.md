@@ -43,7 +43,7 @@
 <!-- Stats -->
 <div align="center">
   <h2>My Stats:</h2>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=hamzaumer2&theme=dark&background=000000" alt="GitHub Streak">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=hamza-umer&theme=dark&background=000000" alt="GitHub Streak">
 </div>
 
 <!-- Languages -->
